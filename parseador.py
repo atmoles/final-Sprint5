@@ -1,5 +1,5 @@
 import json
-from .clases import cliente
+from clases import cliente
 
 class Parser():
     def __init__(self,file):
